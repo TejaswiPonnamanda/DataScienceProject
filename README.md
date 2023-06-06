@@ -29,10 +29,12 @@ Price price follows a linear relationship with several parameters like diameter,
 Train Data Set: sample_data.csv containing columns like cost, diameter, toppings etc
 
 # How It works
-CSV file is read using pandas
-Train Data is chosen
-A modeler is generated using Linear Regression
-Cost are predicted with the random pizza size
-Linear Regression take two input parameters: X and y. X being the independent quantity and y being the dependent quantity because linear regression take the form of straight line whose equation is given by ``` y = mx+c ```, y=dependent, x=independent, m=slope of the line and c being the y-intercept.
-
-In our pizza price prediction system X=['size','pizza toppings'..etc] and y=['cost']
+# 1.Data Collection
+# 2.Data Preprocessing
+# 3.Feature selection
+# 4.Splitting the Dataset
+# 5.Model Training
+# 6.Model Evaluation
+# 7.Model Deployment
+# 8.Predicting Pizza Prices
+# 9.Model Maintenance
