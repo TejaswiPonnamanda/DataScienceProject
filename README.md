@@ -22,7 +22,7 @@ Train Data Set
 Choosing the Algorithm
 Applying ML algorithm to train the system
 Test Data Set
-Aim: To predict the pizza price
+# Aim: To predict the pizza price
 Pre-requiste Knowledge
 Price price follows a linear relationship with several parameters like diameter, quantity of cheese, veg or non veg, pizza toppings. Therefore Simple Linear Regression can be applied to estimate the price of the pizza.
 
