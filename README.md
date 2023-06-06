@@ -26,7 +26,7 @@ Test Data Set
 Pre-requiste Knowledge
 Price price follows a linear relationship with several parameters like diameter, quantity of cheese, veg or non veg, pizza toppings. Therefore Simple Linear Regression can be applied to estimate the price of the pizza.
 
-Train Data Set: sample_data.csv containing columns like cost, diameter, toppings etc
+Train Data Set: pizza_v1.csv,pizza_v2.csv containing columns 
 
 # How It works
 # 1.Data Collection
